@@ -1,0 +1,37 @@
+_repo: Les-r-prouv-s-et-les--lus--t.2-_42594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Souvestre, Émile
+    alias: Souvestre, Emile
+    birthdate: 1806
+    deathdate: 1854
+    gutenberg_agent_id: '1351'
+    url: http://www.gutenberg.org/2009/agents/1351
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42594'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, French'
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+tableOfContents: Une maîtresse -- Une mère -- Encore Marc -- Une découverte -- Deux
+  amants -- Les deux loges -- Femme et maîtresse -- Les Motteux -- Un gendre -- Adieux
+  -- Amis et ennemis -- Présages -- Projets de vengeance -- Le sorcier -- Le Petit-Tourbillon
+  -- Soirée de grisette -- Rupture -- M. Vankrof -- Une rencontre -- La maison de
+  Bel-Air -- La déclaration -- Le château de Vertbec -- Une journée chez Marcel --
+  Le gendre et la belle-mère -- L’accusation -- Les droits du mari -- La punition
+  -- Une retraite -- Madame de Luxeuil -- Rencontre -- La grève de Saint-Michel --
+  Conclusion.
+title: Les réprouvés et les élus (t.2)
+url: http://www.gutenberg.org/ebooks/42594
